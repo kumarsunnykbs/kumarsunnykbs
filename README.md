@@ -36,7 +36,10 @@ Platform&Tools
 [![Node](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)](https://www.webpackjs.com/)
 [![NPM](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
-[![COSMOS](https://trickywebsolutions.com/images/logo1.png?style="max-width: 100%;width: 20px;")](https://cosmos.network/)
+[![COSMOS](https://trickywebsolutions.com/images/logo1.png)](https://cosmos.network/)
+<a href="https://cosmos.network/" target="_blank">
+  <img src="https://trickywebsolutions.com/images/logo1.png" alt="COSMOS" style="max-width: 100%; width: 20px;">
+</a>
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Stylus](https://img.shields.io/badge/-Stylus-ff6347?style=flat-square&logo=stylus&logoColor=ffffff)](https://stylus-lang.com/)
 
