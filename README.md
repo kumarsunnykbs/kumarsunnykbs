@@ -37,7 +37,7 @@ Platform&Tools
 [![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)](https://www.webpackjs.com/)
 [![NPM](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 
-<a href="https://cosmos.network/" target="_blank"><img src="https://trickywebsolutions.com/images/logo1.png" alt="COSMOS" style="max-width: 100%; width: 20px;">COSMOS</a>
+<a href="https://cosmos.network/" target="_blank"><img src="https://trickywebsolutions.com/images/logo1.png" alt="COSMOS" style="max-width: 100%; width: 20px;"></a>
 <a href="https://ethereum.org/en/" target="_blank"><img src="https://trickywebsolutions.com/images/logo4.png" alt="COSMOS" style="max-width: 100%; width: 20px;"></a>
 <a href="https://internetcomputer.org/" target="_blank"><img src="https://trickywebsolutions.com/images/logo6.png" alt="COSMOS" style="max-width: 100%; width: 20px;"></a>
 
