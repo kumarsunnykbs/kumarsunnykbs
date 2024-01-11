@@ -50,14 +50,6 @@ Platform&Tools
 
 </div>
 
-<p align="center">
-  <a><img src="" /></a>
-</p>
 
-  <br>
-    <p>
-        <a href= ""><img src= "" /></a>
-    </p>
-  
   Here are some ideas to get you started:
-    - 💬 Ask me about Javascript, Vue, React, React Native, Django, Spring Boot, Node.js and more... 😉<br />
+    - 💬 Ask me about Blockchain, AI/ML, React, React Native, MEV Bots, Node.js and more... :) <br />
