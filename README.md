@@ -39,27 +39,42 @@ Platform&Tools
 
 
 
-<div style="display: flex; align-items: center; gap: 10px; font-size: 16px;">
-  <a href="https://cosmos.network/" target="_blank" title="COSMOS" style="color: inherit;">
+<div class="custom-links">
+  <a href="https://cosmos.network/" target="_blank" title="COSMOS">
     <img src="https://trickywebsolutions.com/images/logo1.png" alt="COSMOS" style="max-width: 100%; width: 20px;">
-    <span style="text-decoration: none;">COSMOS</span>
+    <span>COSMOS</span>
   </a>
 
-  <a href="https://ethereum.org/en/" target="_blank" title="Ethereum" style="color: inherit;">
+  <a href="https://ethereum.org/en/" target="_blank" title="Ethereum">
     <img src="https://trickywebsolutions.com/images/logo4.png" alt="Ethereum" style="max-width: 100%; width: 20px;">
-    <span style="text-decoration: none;">Ethereum</span>
+    <span>Ethereum</span>
   </a>
 
-  <a href="https://internetcomputer.org/" target="_blank" title="Internet Computer" style="color: inherit;">
+  <a href="https://internetcomputer.org/" target="_blank" title="Internet Computer">
     <img src="https://trickywebsolutions.com/images/logo6.png" alt="Internet Computer" style="max-width: 100%; width: 20px;">
-    <span style="text-decoration: none;">Internet Computer</span>
+    <span>Internet Computer</span>
   </a>
 
-  <a href="https://near.org/" target="_blank" title="NEAR Protocol" style="color: inherit;">
+  <a href="https://near.org/" target="_blank" title="NEAR Protocol">
     <img src="https://trickywebsolutions.com/images/logo8.png" alt="NEAR Protocol" style="max-width: 100%; width: 20px;">
-    <span style="text-decoration: none;">NEAR Protocol</span>
+    <span>NEAR Protocol</span>
   </a>
 </div>
+
+<style>
+  .custom-links a {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .custom-links img {
+    margin-bottom: 5px; /* Adjust as needed for spacing between image and text */
+  }
+</style>
+
 
 
 
