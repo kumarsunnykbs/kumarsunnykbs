@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"><b></b><br>Agile Full Stack Developer</h1>
+<h1 align="center"><b></b><br>Blockchain Architect | Driving web3 innovation with AI | Book Lover</h1>
 
 <h3 align="center">
 Platform&Tools
